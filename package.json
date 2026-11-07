@@ -1,0 +1,24 @@
+{
+  "name": "lab-03",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals - Lab 3: REST API, Query Parameters, Validation, Debugging",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "rest-api",
+    "backend",
+    "lab-03"
+  ],
+  "author": "THOTA SHASHANK",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
+
