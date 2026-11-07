@@ -3,14 +3,14 @@
 ## Student Details
 
 Name: THOTA SHASHANK  
-Registration Number: 252U1R1243
-Section: CSE-2E (211)
+Registration Number: 252U1R1243  
+Section: CSE-2E(211) 
 
 ---
 
 ## Live Link
 
-[ADD DEPLOYED URL HERE]
+https://backend-lab-03-a9vz.onrender.com/
 
 ---
 
