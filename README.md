@@ -130,9 +130,9 @@ The API performs thorough server-side validation and returns consistent error re
 
 ## Screenshots
 
-Add screenshots using:
-
 ![GET books](screenshots/get-books.png)
+
+![GET book by ID](screenshots/get-bookbyid.png)
 
 ![Search](screenshots/search.png)
 
@@ -141,6 +141,10 @@ Add screenshots using:
 ![Price filter](screenshots/price-filter.png)
 
 ![POST success](screenshots/post-success.png)
+
+![PUT update book](screenshots/update-book.png)
+
+![DELETE book](screenshots/delete-book.png)
 
 ![Validation error](screenshots/validation-error.png)
 
